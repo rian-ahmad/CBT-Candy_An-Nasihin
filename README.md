@@ -1,4 +1,4 @@
-# CandyCBT Annasihin
+# CandyCBT An-Nasihin
 
 CandyCBT ini adalah hasil modifikasi untuk sekolah An-Nasihin.
 Dapatkan master CandyCBT di situs web [CandyCBT](https://cbtcandy.com/)
