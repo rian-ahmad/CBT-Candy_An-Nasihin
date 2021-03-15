@@ -1,7 +1,7 @@
 # CandyCBT An-Nasihin
 
-<p>CandyCBT ini adalah hasil modifikasi untuk sekolah An-Nasihin.
-Dapatkan master CandyCBT di situs web [CandyCBT](https://cbtcandy.com/)</p>
+<p> CandyCBT ini adalah hasil modifikasi untuk sekolah An-Nasihin.
+Dapatkan master CandyCBT di situs web [CandyCBT](https://cbtcandy.com/) </p>
 
 ## Android
 
